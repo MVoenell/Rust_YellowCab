@@ -17,5 +17,14 @@ What this project does
 - cargo run
 # Aggregations
 - Aggregation 1
-- seperates each trip by the month and then gets Trip count, Total Revenue, Average fare.
+- seperates each trip by the month and then gets Trip count, Total Revenue, Average fare and Sorts by month ascending.
+
+
+![API Aggregation#1](screenshot/Aggregation#1-API.png)
+- Aggregation 2
+- Groups the rides by payment type then takes trip count, average tip, Tip rate (sum of tip amount) divided by (sum of total amount) and sorts by trip count descending.
+
+
+
+
   

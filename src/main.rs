@@ -1,6 +1,5 @@
 use datafusion::prelude::*;
 
-// This is the main async function. It runs the entire DataFusion analysis.
 #[tokio::main]
 async fn main() -> datafusion::error::Result<()> {
     // Create a new DataFusion session context
