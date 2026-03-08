@@ -21,8 +21,10 @@ What this project does
 
 
 ![API Aggregation#1](screenshot/Aggregation#1-API.png)
+![SQL Aggregation#1](screenshot/Aggregation#1-SqL.png)
 - Aggregation 2
 - Groups the rides by payment type then takes trip count, average tip, Tip rate (sum of tip amount) divided by (sum of total amount) and sorts by trip count descending.
+  ![API Aggregation#1](screenshot/Aggregation#1=2-Both_Methods.png)
 
 
 
