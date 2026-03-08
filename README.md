@@ -26,7 +26,8 @@ What this project does
 - Groups the rides by payment type then takes trip count, average tip, Tip rate (sum of tip amount) divided by (sum of total amount) and sorts by trip count descending.
 ![Aggregation-2](screenshot/Aggregation-2-Both_Methods.png)
 
-
+# Late Changes
+Sorry for the post midnight changes. I was fighting with github to show my images in the readMe and it made me refactor everything.
 
 
   
