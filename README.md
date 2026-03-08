@@ -20,11 +20,11 @@ What this project does
 - seperates each trip by the month and then gets Trip count, Total Revenue, Average fare and Sorts by month ascending.
 
 
-![Screenshot](screenshot/Aggregation#1-API.png)
-![Screenshot](screenshot/Aggregation#1-SQL.png)
+![Aggregation-1-API](screenshot/Aggregation-1-API.png)
+![Aggregation-1-SQL](screenshot/Aggregation-1-SQL.png)
 - Aggregation 2
 - Groups the rides by payment type then takes trip count, average tip, Tip rate (sum of tip amount) divided by (sum of total amount) and sorts by trip count descending.
-![Screenshot](screenshot/Aggregation#2-Both_Methods.png)
+![Aggregation-2](screenshot/Aggregation-2-Both_Methods.png)
 
 
 
